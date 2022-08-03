@@ -7,4 +7,5 @@
 - 🤔 I’m looking for help with ... Chart.js!
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... geist.axel@gmail.com
+- 👄 I speak: ... German, English and Dutch!
 - ⚡ Fun fact: ... Nutella with Cheese!
