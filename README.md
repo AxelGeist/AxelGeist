@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axel Geist</h1>
 <h3 align="center">Computer Science & Engineering student @ TU Delft</h3>
-
+<img align="right" alt="Coding"
 - 🔭 I’m currently working on **Personal Website!**
 
 - 🌱 I’m currently learning **JavaScript & Node.js!**
