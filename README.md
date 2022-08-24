@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript & Node.js!**
 
-- 🤝 I’m looking for help with **Chart.js!**
-
 - 💬 Ask me about **anything!**
 
 - 👄 I speak **German, English and Dutch!**
