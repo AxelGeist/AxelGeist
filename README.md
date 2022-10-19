@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **personal website!**
 
-- 🌱 I’m currently learning **JavaScript & Node.js!**
+- 🌱 I’m currently learning **Python & c++!**
 
 - 💬 Ask me about **anything!**
 
