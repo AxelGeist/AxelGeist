@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **geist.axel@gmail.com**
 
-- 💻 Check out my website: **[axelgeist.com](axelgeist.com)**
+- 💻 Check out my website: **[axelgeist.com](https://axelgeist.com)**
 
 - ⚡ Fun fact: **Nutella & Cheese!**
 
