@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science & Engineering student @ TU Delft</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on a **scheduling system!**
+- 🔭 I’m currently working on an **API load testing tool!**
 
-- 🌱 I’m currently learning about **microservices!**
+- 🌱 I’m currently learning **Golang!**
 
 - 💬 Ask me about **anything!**
 
