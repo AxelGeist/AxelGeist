@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang!**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me **anything!**
 
 - 👄 I speak **German, English and Dutch!**
 
